@@ -1,8 +1,3 @@
 # fletter-server
 
-<details>
-	<summary>제목</summary>
-    
-   내용을 적어주세요.
-   
-</details>
++ 꽃 구매 서비스 어플입니다 
