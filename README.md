@@ -1,6 +1,7 @@
 # fletter-server
 
 fletter 어플 서버 및 api 관리 
+기존 프로젝트에 있던 중요한 config 정보는 제외하고 Fork해온것 입니다
 - - -
 # 프로젝트 소개
 
